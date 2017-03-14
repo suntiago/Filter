@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_color_property">#333</color>
+    <color name="light_grey3">#cccccc</color>
+    <color name="app_def_color">#11d3c1</color>
+    <color name="activity_bg_color">#ebebeb</color>
+</resources>
